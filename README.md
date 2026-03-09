@@ -29,7 +29,12 @@ O *Cesar School Status* é uma aplicação web desenvolvida para monitorar e com
 ---
 
 ## Histórias Usando BDD
+### Scrums
 https://docs.google.com/document/d/1yLYbp5KL1Ax2EQpBs_EB21WhbjQOc-myWcVmXJJE8rs/edit?usp=sharing
+
+### Sprints
+<img width="1852" height="357" alt="image" src="https://github.com/user-attachments/assets/0b7399f4-5409-4ed6-9318-99342d77bc25" />
+
 
 ---
 
