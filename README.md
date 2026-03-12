@@ -27,7 +27,8 @@ O *Cesar School Status* é uma aplicação web desenvolvida para monitorar e com
 **Professor:** Maurício da Motta Braga
 
 ---
-
+<details>
+<summary>ENTREGA 01</summary>
 ## Histórias Usando BDD
 ### Scrums
 https://docs.google.com/document/d/1yLYbp5KL1Ax2EQpBs_EB21WhbjQOc-myWcVmXJJE8rs/edit?usp=sharing
@@ -50,3 +51,5 @@ https://www.figma.com/design/f9finWkb6zvBDSkksVYcpd/Prot%C3%B3tipo-Lo-Fi-Cesar-S
 
 ## Histórias no Youtube
 https://youtu.be/aNX7ceUMCEs
+
+</details>
