@@ -53,4 +53,3 @@ https://www.figma.com/design/f9finWkb6zvBDSkksVYcpd/Prot%C3%B3tipo-Lo-Fi-Cesar-S
 https://youtu.be/aNX7ceUMCEs
 
 </details>
----
